@@ -1,0 +1,19 @@
+# youtube:
+play 'song name' on youtube
+
+#open a website on browser
+open 'website name' on browser
+
+#change volume
+increase/decrease volume
+
+#notepad/any standalone app
+open 'appname'
+
+#type text
+1) enable typing mode
+2) 'text' to type
+
+#wikipedia
+who/what is 'topic'
+
